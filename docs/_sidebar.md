@@ -7,7 +7,10 @@
   - [Week 2](/eps/week2.md)
   - [Week 3](/eps/week3.md)
   - [Week 4](/eps/week4.md)
+  - [Week 5](/eps/week5.md)
   - [Node Workshop](/eps/nodes_workshop.md)
+  - [Week 6 | Dev](/eps/week6-dev.md)
+  - [Week 6 | Research](/eps/week6-research.md)
 - [Contributing](contributing.md)
 - **Protocol Wiki**
 - The Protocol
@@ -21,7 +24,8 @@
   - [EL Specs](/wiki/EL/el-specs.md)
   - Client architecture
   - [EVM](/wiki/EL/evm.md)
-  - [Transaction]
+  - [Precompiled Contracts](/wiki/EL/precompiled-contracts.md)
+  - [Transaction](/wiki/EL/transaction.md)
   - [DevP2P]
   - [MPT]
   - [JSON-RPC](/wiki/EL/JSON-RPC.md)
@@ -44,7 +48,7 @@
   - [Roadmap overview](/wiki/research/roadmap.md)
   - [Scaling](/wiki/research/scaling/scaling.md)
     - [Core Changes](/wiki/research/scaling/core-changes/core-changes.md)
-      - [EIP-4844](/wiki/research/scaling/core-changes/eip-4844.md)
+    - [EIP-4844](/wiki/research/scaling/core-changes/eip-4844.md)
     - Blobs
     - Sharding
     - Statelessness
