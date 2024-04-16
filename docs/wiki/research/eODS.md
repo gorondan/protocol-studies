@@ -11,7 +11,10 @@ Outside protocol level, staking has split naturally into two classes of particip
 |Operators tier|proffesional node operators providing sophisticated services, with their reputation or some fixed amount of capital of their own at risk
 
 
-## What is meODS?
+## What is meODS?sdffsfd 
+fdsfsfsfdfd
+sdfsfsf
+
 
 meODS is ePBS's Consensus Layer sibling as both propose a better separation of roles in general to be implemented at protocol level, as a reaction of the protocol to some economical separation already naturaly established off-protocol. 
 It implies enshrining further down into the protocol a separation of stakers roles in 2 tiers, based on the Principal-Agent relationship.
