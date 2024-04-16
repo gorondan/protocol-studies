@@ -6,13 +6,15 @@ Watch the presentation on overview of the CL with Alex Stokes on [StreamEth](htt
 
 [recording](https://streameth.org/embed/?playbackId=66a30awapcuiok0z&vod=true&streamId=&playerName=Consensus+Layer+Overview+%7C+Alex+Stokes+%7C+Week+3 ':include :type=iframe width=100% height=520 frameborder="0" allow="fullscreen" allowfullscreen')
 
+For written summary of week 2 presentation, check the [notes](https://github.com/eth-protocol-fellows/protocol-studies/files/14850973/Week.3.EPFsg.Consensus.Layer.Overview.pdf)
+
 For archive of the discussion during the talk, check [this thread](https://discord.com/channels/1205546645496795137/1214219045205835776/1214219052969492541) in our Discord server.
 
 ## Pre-reading
 
 Before starting with the week 3 content, make yourself familiar with resources in [week 2](/eps/week2.md). 
 
-Additionally, you can read get ready by reading following resources:
+Additionally, you can read and get ready by studying the following resources:
 - [Ethereum.org docs on Proof-of-stake](https://ethereum.org/developers/docs/consensus-mechanisms/pos) and its subtopics
 - [Beacon Chain explainer](https://ethos.dev/beacon-chain)
 - [PoS and Solar Punk Future, Dany Ryan 2022](https://www.youtube.com/watch?v=8N10a1EBhBc), a talk before the Merge, great insight into the Merge and Beacon Chain development and testing

@@ -7,7 +7,15 @@
   - [Week 2](/eps/week2.md)
   - [Week 3](/eps/week3.md)
   - [Week 4](/eps/week4.md)
+  - [Week 5](/eps/week5.md)
   - [Node Workshop](/eps/nodes_workshop.md)
+  - [Week 6 | Dev](/eps/week6-dev.md)
+  - [Week 6 | Research](/eps/week6-research.md)
+  - [Week 7 | Dev](/eps/week7-dev.md)
+  - [Week 7 | Research](/eps/week7-research.md)
+  - [Week 8 | Dev](/eps/week8-dev.md)
+  - [Week 8 | Research](/eps/week8-research.md)
+  - [Week 9 | Dev](/eps/week9-dev.md)
 - [Contributing](contributing.md)
 - **Protocol Wiki**
 - The Protocol
@@ -21,9 +29,9 @@
   - [EL Specs](/wiki/EL/el-specs.md)
   - Client architecture
   - [EVM](/wiki/EL/evm.md)
-  - [Transaction]
+  - [Precompiled Contracts](/wiki/EL/precompiled-contracts.md)
+  - [Transaction](/wiki/EL/transaction.md)
   - [DevP2P]
-  - [MPT]
   - [JSON-RPC](/wiki/EL/JSON-RPC.md)
 - [Consensus Layer](/wiki/CL/overview.md)
   - [CL Clients](/wiki/CL/cl-clients.md)
@@ -44,14 +52,14 @@
   - [Roadmap overview](/wiki/research/roadmap.md)
   - [Scaling](/wiki/research/scaling/scaling.md)
     - [Core Changes](/wiki/research/scaling/core-changes/core-changes.md)
-      - [EIP-4844](/wiki/research/scaling/core-changes/eip-4844.md)
-    - Blobs
+    - [EIP-4844](/wiki/research/scaling/core-changes/eip-4844.md)
     - Sharding
     - Statelessness
     - Purge
-  - MEV
-    - PBS
-    - Censorship
+  - [MEV](/wiki/research/PBS/mev.md)
+    - [PBS](/wiki/research/PBS/pbs.md)
+    - [MEV-boost](/wiki/research/PBS/mev-boost.md)
+    - [ePBS](/wiki/research/PBS/ePBS.md)
   - Proof of Stake
     - [Upgrades](/docs/wiki/research/Beacon%20Chain%20Upgrades.md)
     - SSF
